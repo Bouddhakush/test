@@ -11,3 +11,9 @@ LIGNE DE COMMANDE GIT :
 Initialiser un projet Git : racine du projet -> git init
 Pour ajouter les fichiers modifiés : git add . (ou le chemin d'un fichier spécifique)
 Pour commiter : git commit -m "Message de mon commit"
+Pour checker les modifications non commitées : git checkout
+Pour créer une branche : git branch "Nom de la branche"
+Pour supprimer une branche : git branch -D "Nom de la branche" 
+Pour switcher de branche : git checkout "Nom de la branche"
+Pour fusionner le contenu d'une branche à l'autre : git merge "Nom de la branche à merger"
+Pour connecter git en local avec github sur internet : git remote add origin "adresse du github + repo"
