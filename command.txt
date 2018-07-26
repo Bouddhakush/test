@@ -1,0 +1,13 @@
+LIGNE DE COMMANDE VIM
+
+Pour passer en mode "Insert" (écrire du texte) : i
+"	""	""  "Visualisation" : esc
+"	""	""  "Script" :   :
+Pour sauvegarder et quitter : wq -> enter
+
+
+LIGNE DE COMMANDE GIT :
+
+Initialiser un projet Git : racine du projet -> git init
+Pour ajouter les fichiers modifiés : git add . (ou le chemin d'un fichier spécifique)
+Pour commiter : git commit -m "Message de mon commit"
